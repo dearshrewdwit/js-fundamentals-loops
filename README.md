@@ -1,3 +1,5 @@
+Edward Withers
+
 # Programming Fundamentals: Loops
 
 ## Learning Objectives
